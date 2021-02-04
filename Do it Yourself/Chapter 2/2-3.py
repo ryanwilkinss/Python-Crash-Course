@@ -2,6 +2,6 @@
 # a message to that person. Your message should be simple, such as, “Hello Ryan,
 # would you like to learn some Python today?”
 
-name = 'Ryan'
+name = 'ryan'
 message = f'Hello {name.title()}, would you like to learn some Python today?'
 print(message)
